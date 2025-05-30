@@ -42,24 +42,25 @@ This Java application is designed to analyze cubic equations using Object-Orient
 ## 📌 Usage
 
 1. Clone the repo:
-   ```
+   ```bash
    git clone https://github.com/Ulugbek999/Cubic_Equation_Analyzer-COSC-220_finalPRJ.git
-Compile and run:
+Compile and run the program:
 
-
+bash
+Copy
+Edit
 javac *.java
 java main
 Modify the input.txt file to test different equations.
 
 📘 Example Input
-
+Copy
+Edit
 f(x) = 2x^3 - 4x^2 + x - 5
 
-```
----
+
 🧑‍💻 Author
-
-
 Bek (Ulugbek999)
 Final Project for COSC-220 – Object-Oriented Programming
 ---
+
